@@ -1,0 +1,24 @@
+Howw did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+  The diff command with let me know the differences between 2 files and I will be able to find the bug from the second file
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  
+   In my opinion, I should have a account username and password where I can use them to get access to my old version document
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you don in Git, vx having version automatically saved, like Google docs does?
+
+
+why do you think some version control systems, like Git, allow saving multiple in one commit, while others, like Google Docs, treat each file separately?
+
+How can you see commands git log and git diff to view history of files?
+
+  By using git log, I will be able to explore to cloning repository and git diff file2 file1 to view the adding and removing lines
+
+  How might using version control make you more confident to make changes that could break something.
+
+ By using git checkout id you be able to restoring a old version. I can consider it as a rollback
+
+ Now taht you have your workspace set up, what do you want to try using Git for
+
+    yes My workspace is set up properly.
